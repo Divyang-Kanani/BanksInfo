@@ -5,42 +5,42 @@
 			"BankName" : "Airtel Payments Bank",
 			"BankLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/9/9c/Airtel_payments_bank_logo.jpg",
 			"BankInterestRate" : "2.5%"
-		}
+		},
 		{
 			"BankName" : "Bank of Baroda",
 			"BankLogoUrl" : "https://1000logos.net/wp-content/uploads/2021/06/Bank-of-Baroda-logo-500x281.png",
 			"BankInterestRate" : "1.00%"
-		}
+		},
 		{
 			"BankName" : "State Bank of India",
 			"BankLogoUrl" : "https://shotswired.in/wp-content/uploads/2021/01/sbi-logo-now.jpg",
 			"BankInterestRate" : "2.70%"
-		}
+		},
 		{
 			"BankName" : "Bank of India",
 			"BankLogoUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGTrbROy541a_CMcD7sRuu5Ni7TDa08zkUE_wbEVjICk82P9vrdM2dduybTFzmLD4xDg&usqp=CAU",
 			"BankInterestRate" : "2.90"
-		}
+		},
 		{
 			"BankName" : "HDFC Bank",
 			"BankLogoUrl" : "https://www.kindpng.com/picc/m/499-4996167_author-hdfc-bank-logo-transparent-hd-png-download.png",
 			"BankInterestRate" : "3.00%"
-		}
+		},
 		{
 			"BankName" : "Union Bank of India",
 			"BankLogoUrl" : "https://pdtvjobs.com/wp-content/uploads/2020/09/union-bank.png",
 			"BankInterestRate" : "3.50%"
-		}
+		},
 		{
 			"BankName" : "Kotak Mahindra Bank",
 			"BankLogoUrl" : "https://bankcareers.governmentjobs.guru/wp-content/uploads/2021/01/Kotak-Mahindra-bank-Jobs.jpg",
 			"BankInterestRate" : "3.50%"
-		}
+		},
 		{
 			"BankName" : "Axis Bank",
 			"BankLogoUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSznpGogqJeFVNGX6k3ZrF_Mio0QoQBqkbHBQ&usqp=CAU",
 			"BankInterestRate" : "3.50% - 4.00%"
-		}
+		},
 		{
 			"BankName" : "Paytm Payments Bank",
 			"BankLogoUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvlFSL2i5AUnnPTv9uUDPvPS2g0EZyITtN0mNYbSD26eccVa-KAO_TZajidQiThbVoYU0&usqp=CAU",
